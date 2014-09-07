@@ -7,7 +7,7 @@ class Shop
 	
 	public Shop()
 	{
-
+		// Add a useless comment
 	}
 
 	public Player buy(String n, int h, int a, int g, String[] i)
